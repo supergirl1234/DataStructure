@@ -29,7 +29,7 @@
       <file leaf-file-name="CreateHeap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/CreateHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="1050">
               <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
             </state>
           </provider>
@@ -38,7 +38,7 @@
       <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="1475">
               <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
             </state>
           </provider>
@@ -47,7 +47,7 @@
       <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="1025">
               <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
             </state>
           </provider>
@@ -56,8 +56,8 @@
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="425">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -65,7 +65,7 @@
       <file leaf-file-name="Heap1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Heap1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="1475">
               <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
             </state>
           </provider>
@@ -74,8 +74,8 @@
       <file leaf-file-name="GuiBingSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/GuiBingSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="100">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -83,7 +83,7 @@
       <file leaf-file-name="Heap2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/Heap2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="1600">
               <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
             </state>
           </provider>
@@ -92,7 +92,7 @@
       <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comm/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-690">
+            <state relative-caret-position="525">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
@@ -101,7 +101,7 @@
       <file leaf-file-name="XierSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/comm/XierSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
+            <state relative-caret-position="725">
               <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
@@ -139,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/Test8.java" />
         <option value="$PROJECT_DIR$/src/Test9.java" />
         <option value="$PROJECT_DIR$/src/comm/Node.java" />
-        <option value="$PROJECT_DIR$/src/comm/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/Test8.java" />
         <option value="$PROJECT_DIR$/src/com/Test7.java" />
         <option value="$PROJECT_DIR$/src/comm/SelectSort.java" />
@@ -149,6 +148,8 @@
         <option value="$PROJECT_DIR$/src/comm/Heap2.java" />
         <option value="$PROJECT_DIR$/src/comm/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/comm/XierSort.java" />
+        <option value="$PROJECT_DIR$/src/comm/GuiBingSort.java" />
+        <option value="$PROJECT_DIR$/src/comm/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -171,16 +172,17 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="661" />
-    <option name="y" value="33" />
-    <option name="width" value="664" />
-    <option name="height" value="728" />
+    <option name="x" value="1" />
+    <option name="y" value="38" />
+    <option name="width" value="691" />
+    <option name="height" value="687" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -204,14 +206,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/classCode/2019-04-27-排序" />
+    <property name="last_opened_file_path" value="D:/classCode/check_stand_plus" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
@@ -228,20 +229,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XierSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="CreateHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="comm.CreateHeap" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="comm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Heap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comm.Heap1" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -264,6 +254,17 @@
     </configuration>
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="comm.HeapSort" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comm.QuickSort" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -326,19 +327,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Heap1" />
       <item itemvalue="Application.Heap2" />
       <item itemvalue="Application.CreateHeap" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.XierSort" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.XierSort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.CreateHeap" />
         <item itemvalue="Application.Heap2" />
-        <item itemvalue="Application.Heap1" />
       </list>
     </recent_temporary>
   </component>
@@ -358,44 +359,45 @@
       <workItem from="1566011803161" duration="3633000" />
       <workItem from="1566100402889" duration="1842000" />
       <workItem from="1566124712964" duration="9633000" />
+      <workItem from="1566175878525" duration="5092000" />
+      <workItem from="1566214573027" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44432000" />
+    <option name="totallyTimeSpent" value="50122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32993197" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23979592" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3877551" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.37244898" visible="true" weight="0.1732224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.37244898" visible="true" weight="0.17776097" />
       <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
       <window_info id="Structure" order="1" sideWeight="0.627551" side_tool="true" weight="0.25718608" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3452381" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3452381" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +428,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -438,9 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,65 +658,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/comm/GuiBingSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Heap1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="1475">
           <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/Heap2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="1600">
           <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
+        <state relative-caret-position="525">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comm/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="1025">
           <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="1475">
           <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/CreateHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="1050">
           <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comm/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comm/GuiBingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comm/XierSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
+        <state relative-caret-position="725">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
